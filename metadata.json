@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Arogya — AI Clinical History Platform",
+  "description": "AI-Powered Clinical History & Patient Case-Taking Platform for Indian Hospitals with Dynamic Symptom Entry, Voice, OCR, Red-Flag Triage & ABDM/ABHA Integration",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
